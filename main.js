@@ -26,5 +26,4 @@ div2P.style.color = 'yellow';
 
 div3.style.margin = '0px';
 div3.style.padding = '100px';
-div3.style.backgroundImage = 'url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiCr6L9to3lAhWypFkKHQQOAy4QjRx6BAgBEAQ&url=https%3A%2F%2Fmedium.com%2Fbigger-picture%2Foompa-loompas-and-the-sad-state-of-the-music-industry-1206ccf4e3f6&psig=AOvVaw2gWtbUKmyyd04uLf3e1ZSb&ust=1570650438529714)';
-div3.style.backgroundRepeat ='repeat-x'
+div3.style.background = 'grey';
