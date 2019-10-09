@@ -40,6 +40,7 @@ div3Li.style.color = 'red';
 div4.style.width = '100px';
 div4.style.display = 'inlineBlock';
 div4.style.float = 'right';
+div4.style.border = '20px dashed orange'
 
 form.style.backgroundColor = 'purple';
 
