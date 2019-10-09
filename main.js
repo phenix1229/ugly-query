@@ -6,6 +6,10 @@ const div2 = document.querySelector('#div2');
 const div3 = document.querySelector('#div3');
 const div4 = document.querySelector('#div4');
 const div2P = div2.querySelector('p');
+const div3Ul = div3.querySelector('#ul1');
+const div3Li = div3.querySelector('.li-d3');
+const form = document.querySelector('form');
+const textArea = document.querySelector('textarea');
 
 body.style.backgroundImage = 'url(https://media0.giphy.com/media/6Nv7BdrUl6Psc/giphy.gif)';
 body.style.backgroundRepeat = 'repeat-y';
@@ -25,5 +29,19 @@ div2.style.padding = '20px';
 div2P.style.color = 'yellow';
 
 div3.style.margin = '0px';
-div3.style.padding = '100px';
+div3.style.padding = '200px';
 div3.style.background = 'grey';
+
+div3Ul.style.color = 'white';
+div3Li.style.fontSize ='75px';
+
+div3Li.style.color = 'red';
+
+div4.style.width = '100px';
+div4.style.display = 'inlineBlock';
+div4.style.float = 'right';
+
+form.style.backgroundColor = 'purple';
+
+textArea.style.border = '10px dotted'
+
