@@ -27,6 +27,8 @@ div1.style.position = 'absolute'
 div2.style.margin = '50px 100px 150px 200px';
 div2.style.background = 'lightBlue';
 div2.style.padding = '20px';
+div2.style.position = 'absolute'
+div2.style.zIndex = '0'
 
 div2P.style.color = 'yellow';
 
